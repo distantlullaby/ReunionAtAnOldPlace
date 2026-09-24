@@ -1,0 +1,8 @@
+# 编译产物
+*.exe
+server
+seed
+server.log
+
+# 本地上传文件
+uploads/
